@@ -4,6 +4,10 @@ body {background:#FAEBD7;}
 </style>
 <title> # Study Habits </title>
 <h1 style="font-family:verdana"> Are you struggling to study? Here are some tips on how! </h1>
+<body>  
+<style>
+body {background:#FAEBD7;}
+</style>
 <h2 style="font-family:verdana"> In this, we will cover 3 different study methods that help me and my friends stay focused </h2>
 <ol>
   <li style="font-family:verdana"> 25 minutes on, 5 minutes off </li>
@@ -20,3 +24,4 @@ body {background:#FAEBD7;}
 <p style="font-family:verdana"> This is similar to "throwing up" the information you know. To use this study method, you simply just write down everything you remember about a topic onto a piece of paper. After you do this, you can go back into your notes and see the information that you missed. When going back, make sure to mark everything, and relearn it to make sure it stay in your mind. My favorite part about this method is you ca do it multiple time to see how much progress you have made. Comparing your old paper to new ones is also useful to see if you have been improving.
   <img src="https://images.ctfassets.net/81iqaqpfd8fy/41KiNVEWQM6MgY8QEGkoco/44b9952239085ad2c731b3dcef4cc94f/selfcareguide-02.jpg?fm=webp&h=620&w=1440" alt="Studying" width="460" height="400">
 <p style="font-family:verdana" style="font-size:20px> Thank you for reading through this, and I hope your studying brings you productivity! </p>
+</body>
