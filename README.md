@@ -1,7 +1,7 @@
 
 <style>
 body {background:#FAEBD7;}
-</style
+</style>
 <title> # Study Habits </title>
 <h1 style="font-family:verdana"> Are you struggling to study? Here are some tips on how! </h1>
 <h2 style="font-family:verdana"> In this, we will cover 3 different study methods that help me and my friends stay focused </h2>
